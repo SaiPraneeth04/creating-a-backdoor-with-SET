@@ -14,7 +14,7 @@ Investigate on the various categories of tools as follows.
 ### Step 3:
 Open terminal and try execute some kali linux commands.
 
-### DEVELOPED BY : M.Sai Praneeth K
+### DEVELOPED BY : Sai Praneeth K
 ### REGISTER NO : 212222230067
 
 ## EXECUTION STEPS AND ITS OUTPUT:
