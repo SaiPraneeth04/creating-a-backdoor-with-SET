@@ -14,8 +14,8 @@ Investigate on the various categories of tools as follows.
 ### Step 3:
 Open terminal and try execute some kali linux commands.
 
-### DEVELOPED BY : M.CHANDRU
-### REGISTER NO : 212222230026
+### DEVELOPED BY : M.Sai Praneeth K
+### REGISTER NO : 212222230067
 
 ## EXECUTION STEPS AND ITS OUTPUT:
 Social Engineering attacks are the various cons used by the hackers to trick people into providing sensitive data to the attackers. The command sudo setoolkit in the prompt gives menu with set prompt:
